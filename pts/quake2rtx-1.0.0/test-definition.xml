@@ -14,7 +14,7 @@ The test profile assumes you have a Steam account, and have Steam installed for 
     <TimesToRun>3</TimesToRun>
   </TestInformation>
   <TestProfile>
-    <Version>1.0</Version>
+    <Version>1.0.0</Version>
     <SupportedPlatforms>Linux</SupportedPlatforms>
     <SoftwareType>Game</SoftwareType>
     <TestType>Graphics</TestType>
